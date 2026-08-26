@@ -1,10 +1,8 @@
-Absolutely — here’s a polished GitHub README based on your project and findings. I’ve kept it focused on Data Analyst roles rather than making it sound like a generic dashboard project.
-
 Lahore Supermart Sales Analysis
 
 📊 Project Overview
 
-This project analyzes Lahore Supermart's 2025 sales data to identify sales trends, branch performance, product profitability, salesperson performance, and customer payment behavior.
+This project analyzes Lahore Superstores' 2025 sales data to identify sales trends, branch performance, product profitability, salesperson performance, and customer payment behavior.
 
 The project follows a complete data analysis workflow:
 
@@ -51,7 +49,7 @@ After cleaning and validation, the dataset was prepared for analysis and dashboa
 
 📈 Dashboard
 
-The dashboard was designed to provide an overview of supermarket sales performance and answer important business questions.
+The dashboard was designed to provide an overview of Superstores sales performance and answer important business questions.
 
 Dashboard includes:
 
@@ -102,14 +100,14 @@ Based on the analysis, management could:
 
 📂 Project Structure
 
-Lahore-Supermart-Sales-Analysis/
+Lahore-Superstore-Sales-Analysis/
 │
 ├── data/
-│   ├── Lahore_Supermart_2025_raw.csv
-│   └── Lahore_Supermart_2025_cleaned.xlsx
+│   ├── Lahore_Superstore_2025_raw.csv
+│   └── Lahore_Superstore_2025_cleaned.xlsx
 │
 ├── dashboard/
-│   └── Lahore_Supermart_Dashboard.pdf
+│   └── Lahore_Superstore_Dashboard.pdf
 │
 ├── screenshots/
 │   └── dashboard.png
